@@ -1,0 +1,12 @@
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.exe.config
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.pdb
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.pdb
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.exe.config
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.exe
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.pdb
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.exe
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\bin\Debug\TimeTableChallenge.pdb
+G:\Visual Studio 2013\Projects\TimeTableChallenge\TimeTableChallenge\obj\Debug\TimeTableChallenge.csprojResolveAssemblyReference.cache
